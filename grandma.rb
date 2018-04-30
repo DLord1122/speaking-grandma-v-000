@@ -1,9 +1,9 @@
 # Write a speak_to_grandma method.
 def speak_to_grandma(speak)
   if speak == speak.uppercase
-    puts "NO, NOT SINCE 1938"
+    "NO, NOT SINCE 1938"
   else
-    puts "HUH?! SPEAK UP, SONNY!"
+    "HUH?! SPEAK UP, SONNY!"
    end
  end
 
